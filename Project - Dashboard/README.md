@@ -75,7 +75,7 @@ IF(
 
 📉 Dashboard Implementation
 
-<img src="/Resources/Images/1_Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
+<img src="/Resources/Images/Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
 
 #### ⏰ Count of Job Schedule Type
 
